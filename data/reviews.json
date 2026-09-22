@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 1,
+    "text": "I know I took a photo of a small cafe during my Goa trip last year. I've tried searching 'cafe', 'Goa', 'restaurant' — nothing comes up. I can picture the photo in my head but Google Photos just can't find it for me.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 2,
+    "text": "Took a photo of my prescription medicine bottle last year when I was sick. Now I need to find it and I have no idea when exactly I took it. Searched 'medicine', 'pills', 'bottle' — nothing. Had to scroll through months of photos manually.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-05",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 3,
+    "text": "The Ask Photos AI feature is painfully slow. I just want to type 'dog' and see my dog photos instantly like before. Now it tries to 'understand' my query and takes 10 seconds to show me a paragraph of text before the actual photos. Turned it off immediately.",
+    "platform": "Play Store",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-05-28",
+    "user_segment": "power user"
+  },
+  {
+    "id": 4,
+    "text": "Face recognition keeps grouping my sister and my cousin together. I've manually corrected it dozens of times and it keeps merging them back. When I search for my sister's name, half the results are my cousin.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-02-14",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 5,
+    "text": "I remember taking a screenshot of a Wi-Fi password at a hotel. I know it was sometime in March but I can't find it. The text search should pick up the password text in the image but it doesn't seem to work on older screenshots.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 6,
+    "text": "I have 10 years of photos backed up. When I search for a specific trip, I get photos from every trip I've ever taken. There's no way to narrow by date range while searching. Why can't I search 'beach 2023' or 'mountains July 2024'?",
+    "platform": "Google Help Community",
+    "themes": ["temporal_navigation", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-10",
+    "user_segment": "power user"
+  },
+  {
+    "id": 7,
+    "text": "Google Photos used to be the undisputed king of image search and organization. Since Gemini took over, searching has become unreliable. I searched for 'boarding pass' and got AI-generated summaries instead of my actual screenshots.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression", "screenshot_document_search"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-30",
+    "user_segment": "power user"
+  },
+  {
+    "id": 8,
+    "text": "My mom asked me to find a photo of her garden from 2 years ago. She remembers it had her roses in bloom but doesn't remember the month. I searched 'roses', 'garden', 'flowers' and got hundreds of results with no way to filter effectively. Gave up after 20 minutes.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-12",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 9,
+    "text": "Location search is broken for me. I took dozens of photos in Paris but searching 'Paris' only shows like 5 of them. The rest don't have location metadata apparently because I had location services turned off on some of them.",
+    "platform": "Google Help Community",
+    "themes": ["location_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-25",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 10,
+    "text": "I love how Google Photos search can find my pets. Typed my dog's name and it pulled up every photo of him across 5 years. Magic.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "search_accuracy"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-04-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 11,
+    "text": "I scanned old family photos and uploaded them to Google Photos. The dates are all wrong — they show the scan date, not the original date. Now searching by year is useless for finding childhood photos.",
+    "platform": "Google Help Community",
+    "themes": ["temporal_navigation", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-12-03",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 12,
+    "text": "Tried to find photos from a friend's wedding last year. I remember the venue was beautiful but I couldn't remember the venue name or exact date. Searching 'wedding' showed me every wedding I've ever attended. I just wanted THAT specific one.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 13,
+    "text": "The Gemini AI search gives me paragraph-long answers when I just want to see the photos. I don't need an AI essay about my vacation, I just need to find the photo of that sunset.",
+    "platform": "App Store",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-06-01",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 14,
+    "text": "I'm a photographer with 100k+ photos on Google Photos. The search was incredible — I could find any shot by describing it. Since the Gemini update, simple searches like 'sunset over ocean' return random results. Had to disable Ask Photos.",
+    "platform": "Twitter/X",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-29",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 15,
+    "text": "Face recognition doesn't work at all for my kids. They change so much year to year that Google can't keep up. Photos of my 3-year-old son are in a completely different group from his 5-year-old photos. Useless for finding all photos of him.",
+    "platform": "Play Store",
+    "themes": ["face_recognition"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-03-22",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 16,
+    "text": "I remember taking a photo of a whiteboard during a meeting at work. But I can't remember which meeting or when. Text search doesn't pick up the handwritten text on the whiteboard. Totally lost.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-15",
+    "user_segment": "power user"
+  },
+  {
+    "id": 17,
+    "text": "Albums are such a pain. I create albums for trips but always forget to add some photos. Later when I search for a trip photo, it might not be in the album and I have no way to find the stragglers. Incomplete albums are inevitable.",
+    "platform": "Google Help Community",
+    "themes": ["organization_friction", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-07-19",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 18,
+    "text": "Why can't I search by combining criteria? I want to search 'John at the beach in 2023' but the search doesn't support AND logic. I have to search 'beach' then scroll through hundreds of results looking for John.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-08",
+    "user_segment": "power user"
+  },
+  {
+    "id": 19,
+    "text": "I took a photo of a street sign with a restaurant recommendation in Tokyo. I know it exists in my library but I can't search for Japanese text. OCR doesn't work for non-English text in my experience.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-06-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 20,
+    "text": "Google Photos keeps showing me Memories of my ex. I've tried hiding their face from Memories but they still pop up in search results. The emotional experience of searching for old photos is terrible.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 1,
+    "date": "2026-04-21",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 21,
+    "text": "Best feature of Google Photos is the search. I can find a photo of my cat sleeping on a specific blanket just by describing it. No other app comes close.",
+    "platform": "App Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2025-12-10",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 22,
+    "text": "I have 50,000 photos. When I try to find one specific photo I vaguely remember, I'm basically scrolling endlessly through a timeline. The search only works if you know the exact right keyword. There needs to be a better way to browse through partial matches.",
+    "platform": "Google Help Community",
+    "themes": ["vague_memory_retrieval", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-14",
+    "user_segment": "power user"
+  },
+  {
+    "id": 23,
+    "text": "Searched for 'monkey at zoo' and Ask Photos gave me a lecture about monkeys instead of showing me the actual photos I took at the zoo. Classic Google, over-engineering a simple search.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-31",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 24,
+    "text": "Photos from 2013-2015 appear corrupted with random lines and missing pixels. These were backed up years ago and now I can't even view them properly, let alone search for specific ones among them.",
+    "platform": "Google Help Community",
+    "themes": ["organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-04-09",
+    "user_segment": "power user"
+  },
+  {
+    "id": 25,
+    "text": "I remember a photo of my daughter's first steps. It was in our old apartment. I know it exists but I can't find it. Searching 'baby walking' gives me random results. Face recognition puts her infant photos in a different group from her toddler photos.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "face_recognition"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-28",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 26,
+    "text": "Downloaded photos from my old phone and uploaded them. Now they all show today's date instead of the original date. I can't find them chronologically anymore — they're mixed in with today's photos instead of being where they belong in 2019.",
+    "platform": "Play Store",
+    "themes": ["temporal_navigation", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 1,
+    "date": "2025-11-17",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 27,
+    "text": "The 'Explore' map view is great. I can see exactly where I took photos on a map and tap on locations to find trip photos. This is how searching should work for everything.",
+    "platform": "Play Store",
+    "themes": ["location_search"],
+    "sentiment": "positive",
+    "rating": 4,
+    "date": "2026-03-05",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 28,
+    "text": "I took photos indoors at a restaurant but location wasn't tagged because I was connected to their WiFi and my GPS was off. Now I can't search by that location. I know WHICH restaurant it was, I just can't find the photos through location search.",
+    "platform": "Google Help Community",
+    "themes": ["location_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-03",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 29,
+    "text": "There's no way to search for photos based on who sent them to me. My friend shared vacation photos through Google Photos but I can't search 'shared by Priya' or filter by source. Everything is mixed together.",
+    "platform": "Reddit",
+    "themes": ["organization_friction", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-12",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 30,
+    "text": "I desperately need the ability to describe a photo scene to find it. Like 'three people standing in front of a blue wall with string lights'. The search engine only understands objects, not compositions or scenes.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-30",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 31,
+    "text": "Updated the app and now my entire People & Pets section is empty. Face recognition seems to have reset. I had hundreds of faces labeled and now I have to start over. This was my primary way of finding family photos.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 1,
+    "date": "2026-05-10",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 32,
+    "text": "I remember a photo with a specific color — a bright red dress my friend was wearing. There's no way to search by dominant color. Color is often the first thing I remember about a photo.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-12-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 33,
+    "text": "Searching for 'document' only shows recent documents. I took a photo of my lease agreement 3 years ago and can't find it. Apparently older photos aren't indexed as well as newer ones for text/document categories.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-29",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 34,
+    "text": "Google Photos search is incredible. Searched 'birthday cake' and found every birthday cake photo across 8 years. Even found ones where the cake was just in the background. The AI recognition is amazing.",
+    "platform": "App Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-01-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 35,
+    "text": "I can't find photos that I know are in shared albums. The search only searches my personal library, not albums that others have shared with me. This is a huge gap — half my family photos are in shared albums.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-05",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 36,
+    "text": "Someone please give the Google Photos team an award for THE understatement of 2026 when they said they've 'heard your feedback'. The search is completely broken since Gemini.",
+    "platform": "Twitter/X",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-31",
+    "user_segment": "power user"
+  },
+  {
+    "id": 37,
+    "text": "I remember a photo from college, maybe 2017 or 2018, standing outside our dorm with friends after finals. I just remember the feeling of relief and laughter. How do you even search for a feeling? There's no keyword for that.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-03-14",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 38,
+    "text": "The face recognition for people of color is noticeably worse. My lighter-skinned family members are properly grouped but my darker-skinned relatives constantly get mixed up or not detected at all.",
+    "platform": "Reddit",
+    "themes": ["face_recognition", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-07-11",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 39,
+    "text": "I took a photo of a warning label on a cleaning product because my kid touched it. Months later I needed to show the doctor but couldn't find it. Searched 'warning', 'label', 'cleaning', 'chemical' — nothing worked. Eventually found it by manually scrolling to the approximate date.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-30",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 40,
+    "text": "I remember we had a group photo at a rooftop restaurant with the skyline behind us. Maybe Delhi or maybe Jaipur, I'm not sure. I can picture the photo perfectly but I can't describe it in search keywords. This is the fundamental problem.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "location_search"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-19",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 41,
+    "text": "The auto-generated albums for trips are actually brilliant. Google figured out I went to Manali and created a trip album with a map and everything. This kind of automatic organization is what I want more of.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "location_search"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2025-11-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 42,
+    "text": "I have the same issue as many others. I can't find photos from over 10 years ago. They're definitely backed up — I can see the storage being used — but search just doesn't surface them.",
+    "platform": "Google Help Community",
+    "themes": ["temporal_navigation", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-07",
+    "user_segment": "power user"
+  },
+  {
+    "id": 43,
+    "text": "Why is there no search history? I found a photo last week using search but now I can't remember what I searched. A search history would help me retrace my steps when looking for things I've found before.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-14",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 44,
+    "text": "I took a photo of a parking spot sign so I'd remember where I parked. Classic use case. But two days later when I needed it, I couldn't find it quickly. Had to open the app, go to photos, scroll down. There should be a 'recently captured' quick access.",
+    "platform": "App Store",
+    "themes": ["screenshot_document_search", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 3,
+    "date": "2025-08-05",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 45,
+    "text": "Google Photos' suggested search categories like 'Things', 'Places', 'People' are helpful for browsing but useless when you're looking for something specific. I want to SEARCH, not browse through categories.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-02-10",
+    "user_segment": "power user"
+  },
+  {
+    "id": 46,
+    "text": "Photos I archived months ago disappeared from search results. I archived them to declutter, not to hide them forever. Now I have to go into the Archive folder and manually browse to find anything I archived.",
+    "platform": "Google Help Community",
+    "themes": ["organization_friction", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 47,
+    "text": "Searching for text within screenshots works beautifully now. Found a Wi-Fi password from a screenshot I took months ago by just typing the network name. This is genuinely useful.",
+    "platform": "Play Store",
+    "themes": ["screenshot_document_search"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2025-11-30",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 48,
+    "text": "I know I have a photo of a specific painting I saw at an art gallery. The search can identify that it's a painting but can't identify which painting or the style. I'd love to search by visual similarity — 'find photos that look like THIS'.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2025-12-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 49,
+    "text": "Google Photos face recognition works perfectly for my family. I can tap on my husband's face and see 10 years of photos of him. The grouping is almost 100% accurate. My favorite feature by far.",
+    "platform": "App Store",
+    "themes": ["face_recognition"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-03-18",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 50,
+    "text": "The photos I took inside restaurants/bars at night never have good location data. Indoor photos with poor GPS is a known issue but Google doesn't try to infer location from the photos before/after that also have location data.",
+    "platform": "Reddit",
+    "themes": ["location_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-02",
+    "user_segment": "power user"
+  },
+  {
+    "id": 51,
+    "text": "I'm frustrated that I can't search for 'photos I edited' or 'photos I favorited last month'. Metadata-based filtering would help so much with retrieval.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-07-25",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 52,
+    "text": "My elderly mother uses Google Photos and always calls me saying she can't find her photos. She doesn't know the right keywords to use. The search assumes you can articulate what you're looking for. Many users can't.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-21",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 53,
+    "text": "I specifically remember a photo taken during golden hour with long shadows. There's no way to search by lighting conditions or time of day. These are often the visual cues I remember most strongly.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-08",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 54,
+    "text": "I was tired of Google Photos showing me strangers' faces in my People section. The face suggestions were mixing up random people at public events with my actual friends. Had to manually clean up hundreds of face groups.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-08-10",
+    "user_segment": "power user"
+  },
+  {
+    "id": 55,
+    "text": "I spent 30 minutes looking for a photo of my old apartment's kitchen. I know it's in there somewhere — I took photos when we moved in. But I couldn't remember the year we moved in and 'kitchen' returns photos from every kitchen I've ever been in.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-12-01",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 56,
+    "text": "Why doesn't Google Photos learn from my search behavior? If I searched for something last week and tapped on a specific photo, it should remember that connection for next time. Every search starts from zero.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-28",
+    "user_segment": "power user"
+  },
+  {
+    "id": 57,
+    "text": "I'm a doctor and I photograph patient wounds for medical records (with consent). Finding a specific wound photo months later is nearly impossible because searching 'wound' or 'skin' gives irrelevant results mixed with personal photos.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-07",
+    "user_segment": "power user"
+  },
+  {
+    "id": 58,
+    "text": "Google Photos completely fails with photos taken at night. I have beautiful night market photos from Bangkok but searching 'night market' returns nothing. It seems the AI can't identify objects in low-light photos.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "location_search"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-12",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 59,
+    "text": "I remember there was a photo where my friends and I spelled out a word with our bodies at the beach. I just remember it being silly and fun. How do you search for the emotion of a photo?",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-05-03",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 60,
+    "text": "Search for photos by typing 'Recent trip' or 'Last vacation' doesn't work in classic search. You need Ask Photos for that, but Ask Photos is so slow and unreliable I don't bother. Wish classic search understood relative time references.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "ai_search_regression"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-25",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 61,
+    "text": "Great for storage and backup. But finding a specific old photo among 80,000 others? Forget it. The search works for obvious things like 'dog' or 'beach' but fails for anything nuanced.",
+    "platform": "Play Store",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": 3,
+    "date": "2026-03-15",
+    "user_segment": "power user"
+  },
+  {
+    "id": 62,
+    "text": "I took a photo of a book cover at a bookshop because I wanted to buy it later. Months later I couldn't find it. Text search found nothing because the title was stylized. The photo is lost somewhere in my 40,000 photo library.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 63,
+    "text": "I absolutely need the ability to exclude results from search. When I search 'food', I want to be able to say 'NOT screenshots' or 'NOT at home'. Negative keywords would be game-changing.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-25",
+    "user_segment": "power user"
+  },
+  {
+    "id": 64,
+    "text": "We've heard your feedback and are adding a toggle for classic search. Glad they finally listened, but the damage is done. Months of broken search have made me distrust the whole product.",
+    "platform": "Twitter/X",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-09",
+    "user_segment": "power user"
+  },
+  {
+    "id": 65,
+    "text": "My kids' school photos are taken by a professional and shared via a link. When I download and add them to Google Photos, they lose all context. No date, no location, no faces pre-tagged. They become unfindable.",
+    "platform": "Google Help Community",
+    "themes": ["organization_friction", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-06-15",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 66,
+    "text": "I love Ask Photos. Asked 'What did we eat in Italy?' and it showed me every food photo from my Italy trip, organized by city. This is the future of photo search. When it works, it's magical.",
+    "platform": "Play Store",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-01-10",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 67,
+    "text": "I photographed a rash on my arm to show my dermatologist. Three months later when the appointment came, I couldn't find it. Had to take a new photo. The search has no category for 'medical' or 'health' photos.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 68,
+    "text": "The biggest problem with Google Photos is that it's great at answering 'show me all photos of X' but terrible at answering 'show me THAT specific photo of X'. When I have hundreds of sunset photos, I need to find a particular one, not all of them.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-30",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 69,
+    "text": "Face recognition in group photos is terrible. If there are more than 4-5 people, it often misses some faces. So searching by person doesn't find their group photos, only close-up or small group shots.",
+    "platform": "Play Store",
+    "themes": ["face_recognition", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": 3,
+    "date": "2025-12-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 70,
+    "text": "I moved from iCloud to Google Photos and was blown away by the search. Apple's photo search doesn't come close. Being able to search for 'beach' or 'dog' and actually get results is amazing.",
+    "platform": "App Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-05-08",
+    "user_segment": "switcher from iCloud"
+  },
+  {
+    "id": 71,
+    "text": "Google Photos needs a 'visual search' feature where I can draw a rough sketch of what I remember and it finds matching photos. Sometimes I remember the composition but not the subject.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-03-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 72,
+    "text": "I struggle to find event photos because events don't always have geographic tags. I was at a conference in a convention center — it geotagged to the city but not the venue. Searching the conference name obviously returns nothing.",
+    "platform": "Google Help Community",
+    "themes": ["location_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-14",
+    "user_segment": "power user"
+  },
+  {
+    "id": 73,
+    "text": "My 15GB free storage is almost full. I'm afraid to delete photos because what if I need them later and can't find them again? The retrieval anxiety is real — I hoard photos because I don't trust I can find them later.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-01-28",
+    "user_segment": "free tier user"
+  },
+  {
+    "id": 74,
+    "text": "My biggest frustration: I KNOW the photo exists. I remember taking it. I can visualize it clearly. But the search engine and I don't speak the same language. The gap between human memory and search keywords is the real problem.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 75,
+    "text": "I wish there was a 'find similar' button on photos. When I do find a photo that's close to what I'm looking for, I want to say 'show me more like this' — same time, same place, same visual style.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2025-10-05",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 76,
+    "text": "I switched to Google One and got 100GB storage. The search quality didn't improve with paid storage. I expected premium features to include better search or organizational tools but it's the same experience.",
+    "platform": "Play Store",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 3,
+    "date": "2026-04-05",
+    "user_segment": "Google One subscriber"
+  },
+  {
+    "id": 77,
+    "text": "The Memories feature is nice for nostalgia but it surfaces random photos. I want to tell it 'show me memories from my wedding anniversary trip' or 'show me this day but from our first vacation'. The Memories curation feels random.",
+    "platform": "App Store",
+    "themes": ["temporal_navigation", "vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": 3,
+    "date": "2026-02-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 78,
+    "text": "I backup all screenshots to Google Photos. Now my photo library is cluttered with app screenshots, social media screenshots, and memes mixed with real photos. Searching for anything becomes a mess because screenshots pollute results.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "screenshot_document_search"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2025-09-19",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 79,
+    "text": "Video search is practically nonexistent. I have hundreds of video clips and searching for them by content is impossible. A photo of a dog is searchable but a video of a dog playing isn't.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-12",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 80,
+    "text": "I had location services off in Europe due to roaming charges. Now none of my Europe vacation photos are location-tagged and I can't search by city. Three weeks of travel photos with zero geographic organization.",
+    "platform": "Reddit",
+    "themes": ["location_search", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 81,
+    "text": "I need to find a specific receipt photo from around tax time. I know I photographed it because I always do. But searching 'receipt' shows every receipt from the last 5 years. There needs to be date-range filtering combined with keyword search.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-14",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 82,
+    "text": "I asked Ask Photos 'show me the best photos from my trip to Traverse City' and it genuinely picked the best-composed, most vibrant photos. When it works, the AI judgment is impressive.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "positive",
+    "rating": null,
+    "date": "2025-07-30",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 83,
+    "text": "Can someone explain why searching the same term gives different results on the app vs the web? I found a photo on the web app that doesn't show up in the mobile search. Inconsistency destroys trust.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-05",
+    "user_segment": "power user"
+  },
+  {
+    "id": 84,
+    "text": "I remember a photo where it was raining and we were running to the car with grocery bags. Very specific visual memory. Zero searchable keywords. This is the retrieval problem Google needs to solve.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 85,
+    "text": "The auto-suggested search terms when you start typing are fantastic. When I type 'b' it suggests 'beach', 'birthday', 'bike' based on what's actually in my library. Small touch but very helpful.",
+    "platform": "Play Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "positive",
+    "rating": 4,
+    "date": "2025-10-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 86,
+    "text": "My wife and I took the same trip but our Google Photos show different location tags for the same places. When I search a location, I get results she doesn't and vice versa. We can't collaboratively search our shared trip photos.",
+    "platform": "Reddit",
+    "themes": ["location_search", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-12-08",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 87,
+    "text": "I tried asking Ask Photos 'show me photos of my haircut changes over the years' and it actually worked. It showed me selfies from different years where my hairstyle was notably different. Mind-blowing use case.",
+    "platform": "Twitter/X",
+    "themes": ["ai_search_regression", "vague_memory_retrieval"],
+    "sentiment": "positive",
+    "rating": null,
+    "date": "2026-04-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 88,
+    "text": "I have a photo of my car's license plate because I keep forgetting the number. But searching 'license plate' doesn't find it. The OCR should be able to read the plate number if I search for it.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 89,
+    "text": "Pretty disappointed honestly. Google Photos was the undisputed king of image storage and organization imo. Since Gemini everything feels like it's degrading. Growing pains I hope.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-01",
+    "user_segment": "power user"
+  },
+  {
+    "id": 90,
+    "text": "I need to find a photo I took of a restaurant menu because my partner has allergies and wants to know what's safe before we go back. 'Menu' as a search term works but returns every menu photo from every restaurant. Can't narrow down.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-25",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 91,
+    "text": "The fact that clicking on a suggested search term gives different results than typing the exact same term and pressing Enter is baffling. The search behavior is inconsistent.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-20",
+    "user_segment": "power user"
+  },
+  {
+    "id": 92,
+    "text": "I want to find the photo of my late grandmother. I know she's in my People & Pets section but I never labeled her name. Now I have to scroll through dozens of unnamed face groups looking for her. A visual browser for face groups would help.",
+    "platform": "Reddit",
+    "themes": ["face_recognition", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-05",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 93,
+    "text": "Google Photos on iOS doesn't have all the same search capabilities as Android. I switched from Android to iPhone and my search experience got noticeably worse.",
+    "platform": "App Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2025-08-30",
+    "user_segment": "switcher from iCloud"
+  },
+  {
+    "id": 94,
+    "text": "I photographed the ingredients list on a food package because I was checking for allergens. Later when I needed it, I had to scroll through photos manually because searching for the ingredient name didn't work in image text.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-25",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 95,
+    "text": "Has anyone noticed that face recognition works poorly on photos with masks? Obviously people wore masks for years and none of those photos are properly tagged. That entire era is basically unsearchable by person.",
+    "platform": "Reddit",
+    "themes": ["face_recognition", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-06-05",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 96,
+    "text": "I upload screenshots of important conversations — insurance claims, customer support chats, order confirmations. Finding a specific one later is a nightmare because they all look similar in the thumbnail grid.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 97,
+    "text": "I remember a photo from a festival — there were colorful lights, a crowd, and my friend was holding a glow stick. I remember it perfectly visually but describing it for text search is impossible. The search requires you to decompose a visual memory into keywords.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-07-14",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 98,
+    "text": "Excellent for people who take lots of photos. The automatic backup gives me peace of mind and the search capabilities are far ahead of any competitor I've tried.",
+    "platform": "Play Store",
+    "themes": ["search_accuracy"],
+    "sentiment": "positive",
+    "rating": 4,
+    "date": "2026-04-28",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 99,
+    "text": "I took photos of my apartment for a rental dispute. Now I need to find them for court and I can't. They're somewhere in a sea of 30,000 photos. Searching 'apartment' obviously gives every indoor photo.",
+    "platform": "Google Help Community",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 100,
+    "text": "The more photos you have, the harder it gets to find anything specific. Google Photos scales great for storage but the search doesn't scale. With 100k photos, every search returns too many results.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-12",
+    "user_segment": "power user"
+  },
+  {
+    "id": 101,
+    "text": "I want to search 'photos of me with sunglasses' or 'photos where I'm wearing a hat'. The search doesn't understand accessories or clothing items on people. It's a gap between how I remember myself in photos and what the AI sees.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-12",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 102,
+    "text": "The Locked Folder feature means some of my private photos are excluded from search entirely. I understand why, but it creates a blind spot. I've hidden photos I later needed to find and had to go into the Locked Folder to manually browse.",
+    "platform": "Google Help Community",
+    "themes": ["organization_friction", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2025-11-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 103,
+    "text": "I remember a specific photo based on the background music that was playing when I took it. Obviously you can't search photos by music. But the audio in my video clips IS searchable information that Google doesn't use.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-03-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 104,
+    "text": "I use Google Photos to store photos of my DIY projects. Finding the 'before' photo of a renovation from two years ago is incredibly hard. I remember the room looked terrible, I just can't describe it in keywords.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-09-10",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 105,
+    "text": "The timestamp issue is real. Photos I received via WhatsApp all show the date I received them, not when they were originally taken. Searching by date for received photos is completely unreliable.",
+    "platform": "Play Store",
+    "themes": ["temporal_navigation", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-02-25",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 106,
+    "text": "Why can't I search within a specific album? I created a trip album with 200 photos and now I want to find a specific one within it. The global search doesn't let me scope to an album. I have to browse the entire album manually.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-07-02",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 107,
+    "text": "I have a vivid memory of a photo — it was sunset, orange sky, we were on a balcony with drinks. I remember the vibe perfectly. But no combination of search terms brings it up. The gap between emotional memory and keyword search is enormous.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-10",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 108,
+    "text": "Pro tip: I label all my face groups immediately and regularly review the AI suggestions. This makes people-based search incredibly powerful. Takes effort but worth it.",
+    "platform": "YouTube",
+    "themes": ["face_recognition", "organization_friction"],
+    "sentiment": "positive",
+    "rating": null,
+    "date": "2025-06-20",
+    "user_segment": "power user"
+  },
+  {
+    "id": 109,
+    "text": "I need to find a photo of a product I bought online. I took a photo of the package when it arrived. Months later I need the photo for a warranty claim but searching 'package' or 'box' gives me hundreds of random results.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-12-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 110,
+    "text": "Face grouping re-scan after turning it back on can take WEEKS. I turned it off for privacy temporarily, then turned it back on. Three weeks later, still not fully indexed. My primary retrieval method is broken for weeks.",
+    "platform": "Google Help Community",
+    "themes": ["face_recognition"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-15",
+    "user_segment": "privacy-conscious"
+  },
+  {
+    "id": 111,
+    "text": "I don't want to have a conversation with an AI to find a photo. I want to type a keyword and see results. Ask Photos feels like talking to a chatbot when I just want a search engine. Different mental model entirely.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-06-02",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 112,
+    "text": "Pets search is adorable. Google recognized every one of my cats even though they look similar. I can tap a cat's face and see all their photos. Best feature ever for pet parents.",
+    "platform": "App Store",
+    "themes": ["face_recognition"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2025-10-25",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 113,
+    "text": "I photographed a parking ticket because I wanted to contest it. Months later when the court date came, I couldn't find it. Scrolled for 15 minutes. The OCR text search should have found the text on the ticket but didn't.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 114,
+    "text": "The map view in Explore is underrated. I spent an hour just zooming around the world map looking at photos from places I've visited. Amazing way to browse when you don't know exactly what you're looking for.",
+    "platform": "Play Store",
+    "themes": ["location_search"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-05-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 115,
+    "text": "I desperately need 'search by similar image'. Upload or select a photo and say 'find more like this'. Reverse image search but within your own library. This would solve half my retrieval problems.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-03-30",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 116,
+    "text": "Google Photos doesn't understand seasonal context. I search 'winter' or 'autumn' and get nothing useful. But many of my memories are organized by seasons in my mind — 'that photo from winter 2022' for example.",
+    "platform": "Reddit",
+    "themes": ["temporal_navigation", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 117,
+    "text": "I store all my travel documents as photos — passport copies, visa photos, booking confirmations, hotel addresses. Finding the right document among all travel photos is hard. Documents and real photos need separate search.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-04-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 118,
+    "text": "I'm a real estate agent and take hundreds of house photos. Finding the photos of a specific property 6 months later is a nightmare. I know the house had a blue door but I can't search 'house with blue door'. Object + attribute search is missing.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-05-12",
+    "user_segment": "power user"
+  },
+  {
+    "id": 119,
+    "text": "The 'On this day' memories are great but random. I wish I could say 'show me this day 3 years ago at the beach' or combine a date with a location. The Memories feature doesn't support directed retrieval.",
+    "platform": "App Store",
+    "themes": ["temporal_navigation", "vague_memory_retrieval"],
+    "sentiment": "mixed",
+    "rating": 3,
+    "date": "2026-01-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 120,
+    "text": "I backed up photos from 3 different phones over the years. Some photos appear duplicated, some are missing. The inconsistency makes me doubt whether the photo I'm looking for is even in my library or was lost in one of the migrations.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2025-12-05",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 121,
+    "text": "I'm color blind and the visual thumbnail grid makes browsing nearly impossible for me. I rely entirely on search and when search fails, I have no alternative way to browse my photos meaningfully.",
+    "platform": "Google Help Community",
+    "themes": ["search_accuracy", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-12",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 122,
+    "text": "Ask Photos was paused because of quality issues, then relaunched, and it's STILL not good enough. Two years of development and the feature feels experimental. Meanwhile classic search got worse.",
+    "platform": "Twitter/X",
+    "themes": ["ai_search_regression"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-06-03",
+    "user_segment": "power user"
+  },
+  {
+    "id": 123,
+    "text": "I remember a photo where my friend was making a funny face. 'Funny face' is not a searchable term. The AI can detect faces but not expressions. I'd love to search by emotion — happy, sad, surprised, silly.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "face_recognition"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2025-09-16",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 124,
+    "text": "I organize my photos into year-based albums manually. It's tedious but it's the only way I can reliably find old photos. Google's automatic organization isn't good enough for serious retrieval.",
+    "platform": "Reddit",
+    "themes": ["organization_friction", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-03-05",
+    "user_segment": "power user"
+  },
+  {
+    "id": 125,
+    "text": "Photo search doesn't work offline at all. I was traveling with no internet and needed to find a hotel confirmation screenshot. Had to scroll through thousands of photos with no search functionality.",
+    "platform": "Play Store",
+    "themes": ["screenshot_document_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": 1,
+    "date": "2025-07-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 126,
+    "text": "I remember taking a panorama of a mountain range. Searching 'panorama' doesn't filter by photo type. Why can't I search by camera mode — panorama, portrait, night mode, macro? These are useful retrieval cues.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-02",
+    "user_segment": "photographer"
+  },
+  {
+    "id": 127,
+    "text": "I asked Ask Photos 'What did we eat at the hotel in Stanley?' and it pulled up the exact food photos from that specific hotel. This is the kind of complex query that only AI can handle. Very impressed.",
+    "platform": "YouTube",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "positive",
+    "rating": null,
+    "date": "2025-05-15",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 128,
+    "text": "I had to find proof of a delivery for a dispute with Amazon. I photographed the delivered package on my doorstep. But 'delivery', 'package', 'box', 'doorstep' all returned hundreds of unrelated results. Gave up and used my email receipt instead.",
+    "platform": "Reddit",
+    "themes": ["screenshot_document_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 129,
+    "text": "The face recognition creates different groups for people wearing glasses vs without. My dad has two face groups — one with glasses, one without. I've tried merging them and it keeps splitting them apart.",
+    "platform": "Play Store",
+    "themes": ["face_recognition"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-04-15",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 130,
+    "text": "I tried to find a photo of a birthday card someone gave me. Handwritten text on a card is not searchable. OCR fails on handwriting. I remember the card was blue with gold text but color-based search doesn't exist.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 131,
+    "text": "I wish I could tag photos with custom labels. Not albums, but like hashtags. So when I take a photo of a recipe, I could tag it #recipe and find all recipes later. The current categories are too broad.",
+    "platform": "Reddit",
+    "themes": ["organization_friction", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2025-06-30",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 132,
+    "text": "My photos taken before 4 AM get sorted into the previous day. So late-night party photos from New Year's Eve appear on December 30th instead of Dec 31st. Searching by the correct date fails because of this arbitrary cutoff.",
+    "platform": "Google Help Community",
+    "themes": ["temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-01-02",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 133,
+    "text": "Privacy-conscious user here. I disabled face grouping because I don't want Google building a face database. But this means I lose person-based search entirely. Privacy and functionality shouldn't be mutually exclusive.",
+    "platform": "Reddit",
+    "themes": ["face_recognition", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-11-10",
+    "user_segment": "privacy-conscious"
+  },
+  {
+    "id": 134,
+    "text": "I need to find a specific photo of my insurance card. I know I photographed it but I have photos of multiple insurance cards from different years. Searching 'insurance card' isn't specific enough. I need to search 'insurance card 2024'.",
+    "platform": "Google Help Community",
+    "themes": ["screenshot_document_search", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-08",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 135,
+    "text": "I have 8 years of photos and the search has honestly been incredible. Found a photo of a specific book from 2018 by searching the title. Found photos of specific food from specific restaurants. The AI recognition is underrated.",
+    "platform": "Play Store",
+    "themes": ["search_accuracy", "screenshot_document_search"],
+    "sentiment": "positive",
+    "rating": 5,
+    "date": "2026-03-22",
+    "user_segment": "power user"
+  },
+  {
+    "id": 136,
+    "text": "Sometimes I remember WHO was in the photo but not anything else. The person search is the only thing that helps, but if the face isn't in a labeled group, I'm stuck. There are dozens of unlabeled face groups I never got around to naming.",
+    "platform": "Reddit",
+    "themes": ["face_recognition", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-02-18",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 137,
+    "text": "I took a photo of a trail marker while hiking because I wanted to come back to that trail. Finding the photo later was impossible — 'trail', 'hiking', 'sign' all returned too many results. The specific text on the marker wasn't detected.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "screenshot_document_search"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-10-03",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 138,
+    "text": "The new 'Documents' category automatically groups my document photos. This is genuinely useful — receipts, screenshots, and ID photos in one place. Makes it much easier to find functional photos.",
+    "platform": "Play Store",
+    "themes": ["screenshot_document_search", "organization_friction"],
+    "sentiment": "positive",
+    "rating": 4,
+    "date": "2026-04-28",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 139,
+    "text": "I share a family Google account with my wife. The face recognition gets confused between our libraries. Photos of her sister show up in my search for her name. Cross-account face data contamination.",
+    "platform": "Google Help Community",
+    "themes": ["face_recognition", "organization_friction"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-08-25",
+    "user_segment": "family organizer"
+  },
+  {
+    "id": 140,
+    "text": "I used to trust Google Photos to find anything. That trust has been shattered by the Gemini integration. Now I manually scroll more than I search because I don't trust the search results to be complete.",
+    "platform": "Reddit",
+    "themes": ["ai_search_regression", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-06-01",
+    "user_segment": "power user"
+  },
+  {
+    "id": 141,
+    "text": "I wish the search understood context from my calendar. If I say 'Sarah's birthday party', it should know from my calendar when that was and search photos from that date + location. Connect the dots for me.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "search_accuracy"],
+    "sentiment": "mixed",
+    "rating": null,
+    "date": "2026-03-18",
+    "user_segment": "power user"
+  },
+  {
+    "id": 142,
+    "text": "I have over 1,500 photos from my Europe trip. They're all geotagged. But I want to find the photo from THAT specific cafe in Florence. Searching 'Florence cafe' gives me 40 results. I need to describe the scene more precisely but the search can't handle 'small cafe with outdoor seating on a narrow cobblestone street'.",
+    "platform": "Reddit",
+    "themes": ["vague_memory_retrieval", "location_search", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2026-05-22",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 143,
+    "text": "Google Photos sends too many memory notifications each day and there isn't an option to fine-tune this. I like the occasional one to look back on but the current rate is pestering. When I do want to retrieve a specific memory, the random surfacing doesn't help.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "temporal_navigation"],
+    "sentiment": "negative",
+    "rating": 3,
+    "date": "2026-04-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 144,
+    "text": "The photo editing tools are great and the AI edits are impressive. But facial recognition keeps grouping random strangers as my family members. I've manually corrected it so many times but the algorithm doesn't learn.",
+    "platform": "Play Store",
+    "themes": ["face_recognition"],
+    "sentiment": "mixed",
+    "rating": 3,
+    "date": "2025-06-14",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 145,
+    "text": "It's a struggle to work inside the service. There is no smooth workflow for organizing your files and working with setting up new structures. Moving around files or working with organization and structure is painful.",
+    "platform": "Trustpilot",
+    "themes": ["organization_friction"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-05-02",
+    "user_segment": "power user"
+  },
+  {
+    "id": 146,
+    "text": "Photos that I deleted on my device still show up in Google Photos which can be jarring when a sensitive photo I thought I deleted pops up while I'm searching through my photos for something else.",
+    "platform": "Play Store",
+    "themes": ["organization_friction", "search_accuracy"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2025-08-24",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 147,
+    "text": "A pop-up about AI editing holds up using the app when I open it. I just want to look at my photos when I open the app. It's gotten pretty irritating to use for basic photo retrieval.",
+    "platform": "Play Store",
+    "themes": ["ai_search_regression", "organization_friction"],
+    "sentiment": "negative",
+    "rating": 2,
+    "date": "2026-04-20",
+    "user_segment": "casual user"
+  },
+  {
+    "id": 148,
+    "text": "I photographed a specific plant to identify it later. When I wanted to find the photo weeks later, 'plant' returned hundreds of photos. Every photo with greenery in the background counts as a 'plant' photo apparently. Too broad.",
+    "platform": "Reddit",
+    "themes": ["search_accuracy", "vague_memory_retrieval"],
+    "sentiment": "negative",
+    "rating": null,
+    "date": "2025-04-20",
+    "user_segment": "casual user"
+  }
+]
